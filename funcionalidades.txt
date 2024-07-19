@@ -1,0 +1,12 @@
+Funcionalidades:
+*Hacer autoclick a omitir el anuncio
+*repetir
+*activar desactivar tarjetas en pantalla finales
+*reproductor emergente
+*atajos de teclado
+*screenshoot
+*activar dislike
+*
+*Inpiracion : 
+	- Enhancer for YouTube™
+	- 
